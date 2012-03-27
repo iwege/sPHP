@@ -1,0 +1,7 @@
+<?php
+ $language = array(
+ 	'sites'=>"",
+ 
+	
+ )
+?>
